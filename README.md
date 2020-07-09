@@ -1,4 +1,4 @@
-# symptom-to-disease-prediction
+# Illness-identification-application
 Can be used to identify illnesses based on Machine Learning.
 
 # How to run
