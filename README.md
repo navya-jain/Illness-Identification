@@ -1,5 +1,5 @@
 # symptom-to-disease-prediction
-A simple symptom to disease prediction with Machine Learning.
+Can be used to identify illnesses based on Machine Learning.
 
 # How to run
 
